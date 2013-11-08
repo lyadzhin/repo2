@@ -1,0 +1,3 @@
+[submodule "repo3"]
+	path = repo3
+	url = https://github.com/lyadzhin/repo3.git
